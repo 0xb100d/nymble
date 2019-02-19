@@ -73,3 +73,13 @@ The inspiration for Nymble comes from one of the very first online discussions a
 	<andytoshi> nsh: when everything adds up to 0, you've got
 	everything 
 
+# Better Names
+1. Owl Post Office (OPS)
+2. Bank Mail System (BMS)
+3. Tannoy (aanother word for public address system...aka cypherpunks are tannoying)
+4. Vibe (https://harrypotter.fandom.com/wiki/Vibe)
+5. Protean
+6. nCHANT
+7. LIPS (aka the LIP Service)
+8. BITE 
+9. HOWL (howlers were screaming letters in HP, plus it has OWL in it, another way hp sent letters)
